@@ -1,0 +1,10 @@
+G:\新建文件夹\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.deps.json
+G:\新建文件夹\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.runtimeconfig.json
+G:\新建文件夹\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.runtimeconfig.dev.json
+G:\新建文件夹\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.dll
+G:\新建文件夹\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.pdb
+G:\新建文件夹\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.csprojResolveAssemblyReference.cache
+G:\新建文件夹\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\新建文件夹\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.AssemblyInfo.cs
+G:\新建文件夹\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.dll
+G:\新建文件夹\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.pdb
