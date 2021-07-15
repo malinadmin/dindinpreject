@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "crypto": "^1.0.1",
-    "jquery": "^2.2.4",
+    "jquery": ">=3.5.0",
     "js-md5": "^0.6.0",
     "mint-ui": "^2.2.9",
     "vue": "^2.4.2",
